@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class PasserRate 
 {
+	/* This class asks the user for statistics for a certain player and then calculates and prints their
+	 * player rating
+	 */
 	public static void main(String[] args) 
 	{
 		Scanner input = new Scanner(System.in);
